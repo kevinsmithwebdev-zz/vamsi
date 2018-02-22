@@ -1,0 +1,12 @@
+#Forecast{
+  background-color: #dfd;
+  margin-bottom: 17px;
+  padding-bottom: 10px;
+}
+
+#day-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,25 @@
+#Day {
+  border: 1px solid green;
+  border-radius: 10px;
+  width: 200px;
+  min-width: 200px;
+  margin: 5px;
+  padding: 2px;
+  background-color: lightgreen;
+}
+#Day-date {
+  text-align: center;
+  font-weight: bold;
+  font-size: 150%;
+}
+#Day-conditions-image-wrapper {
+  float: right;
+}
+#Day-conditions-image-wrapper > img {
+  display:inline-block;
+  vertical-align: top;
+}
+#Day-stats {
+  width: 50%;
+  float: left;
+}
